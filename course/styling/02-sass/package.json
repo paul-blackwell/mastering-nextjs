@@ -10,6 +10,7 @@
         "next": "latest",
         "node-sass": "4.7.2",
         "react": "latest",
-        "react-dom": "latest"
+        "react-dom": "latest",
+        "sass": "^1.26.11"
     }
 }
